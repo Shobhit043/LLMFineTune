@@ -20,7 +20,7 @@ Each line in .jsonl files looks like:
 
 {
   "instruction": "text",
-  "response": "text"
+  "input": "text"
 }
 
 ## How to Use
