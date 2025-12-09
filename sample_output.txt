@@ -1,0 +1,7 @@
+Input:
+Symptoms: Fever, headache, body pain
+
+Output:
+Disease: Typhoid (Globe)
+Explanation: These symptoms frequently match Typhoid (Globe) patterns in the dataset.
+Note: This is not medical advice.
