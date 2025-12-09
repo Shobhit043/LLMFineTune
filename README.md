@@ -26,7 +26,7 @@ Each line in .jsonl files looks like:
 ## How to Use
 
 This project requires a GPU.  
-Use **Google Colab** to run the `notebook.ipynb`.
+Use **Google Colab** to run the `notebook.ipynb` and change Runtime to **T4 GPU**
 
 Steps:
 1. Open Colab.
