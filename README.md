@@ -14,7 +14,6 @@ LLMFineTune/<br>
 
 - Takes a dataset (train.jsonl) to fine-tune a language model.  
 - Runs fine-tuning and evaluates on test.jsonl.  
-- Produces output sample and confusion matrix for assessment.
 
 ## Dataset Format
 Each line in .jsonl files looks like:
